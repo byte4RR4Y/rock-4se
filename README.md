@@ -8,7 +8,7 @@ Images for radxa Rock 4 SE
      password: debian
 ---------------------------
 
-<a href="">debian-testing-cli-2023-05-22.img.xz</a>
+<a href="https://drive.google.com/file/d/1uGtWWa6KXhCwhKm_j2krF2j4Lgy0ecYj/view?usp=sharing">debian-testing-cli-2023-05-22.img.xz</a>
 
 # Kali Linux XFCE Edition:
 
