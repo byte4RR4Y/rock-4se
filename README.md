@@ -2,12 +2,10 @@
 Images for radxa Rock 4 SE
 
 # Debian Testing Command Line Edition:
-
 ---------------------------
      login: debian
      password: debian
 ---------------------------
-
 <a href="https://drive.google.com/file/d/1uGtWWa6KXhCwhKm_j2krF2j4Lgy0ecYj/view?usp=sharing">debian-testing-cli-2023-05-22.img.xz</a>
 
 # Kali Linux XFCE Edition:
